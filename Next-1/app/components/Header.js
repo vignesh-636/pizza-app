@@ -20,7 +20,7 @@ function Header() {
          </div>
           <img
           className="object-contain"
-          src="https://simg.nicepng.com/png/small/242-2424140_hulu-png-logo-hulu-logo-white-png.png" alt=" "
+          src="https://w7.pngwing.com/pngs/62/873/png-transparent-computer-icons-hollywood-film-directory-art-movie-icon-miscellaneous-television-film.png" alt=" "
           height="100px" width="200px" />
       </header>
     )
